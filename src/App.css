@@ -1,0 +1,10 @@
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: url(https://yosoy.red/wp-content/uploads/2021/05/cine.jpg);
+}
+
+.mainPage {
+  flex-grow: 1;
+}
