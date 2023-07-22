@@ -27,4 +27,4 @@ _Cuando presione enviar, guardar esta película en el localstorage y mostrar en 
 
 ---
 
-Copyright (c) 2020 -2023
+Copyright (c) 2023
